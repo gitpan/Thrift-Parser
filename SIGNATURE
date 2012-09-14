@@ -14,12 +14,12 @@ not run its Makefile.PL or Build.PL.
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-SHA1 7cb1fb6ff41eb148089a2c769c25bc2cb938740b Build.PL
+SHA1 ba3daf31452a7b93c06dcbbb979dde4c2e9ba045 Build.PL
 SHA1 01a6324ef22738c9b01d87744d2cea7995eed7fc MANIFEST
-SHA1 e1a00e279969e51ee20172276accc52e6d93ffb1 META.json
-SHA1 40c1ea931758b4f5545402269e93e9e73c517b8d META.yml
+SHA1 a06f9769fcc34e74de9f190f8d7e960484e02460 META.json
+SHA1 faeea7b88660fbbf3008aa635241521276aef37f META.yml
 SHA1 84ed757df8b7e0e2bfd98a77ae072d6df4f4f007 Makefile.PL
-SHA1 f7ec9d8b942db3e7a8d3fd17648938ce1df840b4 README
+SHA1 ab6c8444dce9aed635fa8054000e20ef7d4a613e README
 SHA1 61a80f3d02e027a42f2c0b577c6012c2f686584c lib/Thrift/IDL.pm
 SHA1 7c57add90af7f8ae61519de198d61899d345ed57 lib/Thrift/IDL/Base.pm
 SHA1 ac53a2493edaf1d52f8bf9e2a5646322c081d3ac lib/Thrift/IDL/Comment.pm
@@ -46,7 +46,7 @@ SHA1 3f7e4b09dd4b59364c6d87c045b7630732010a9e lib/Thrift/IDL/Type/Map.pm
 SHA1 b9ecd950bda472c882b5ed19179b0d82fc0fda1e lib/Thrift/IDL/Type/Set.pm
 SHA1 41e9dbc5323dd473f4a251ab6bb281f5c7471323 lib/Thrift/IDL/TypeDef.pm
 SHA1 48d8979c08e81a292c5e1e06083a1d003efa5a68 lib/Thrift/JSONProtocol.pm
-SHA1 436c815109623205003eec114a1db3d30e332751 lib/Thrift/Parser.pm
+SHA1 8dfc428bbb92234d83c2c56c343c150a5a1bad97 lib/Thrift/Parser.pm
 SHA1 b7ce8c21a31d1febaa46ca1d594139da8184aac5 lib/Thrift/Parser/Exceptions.pm
 SHA1 c4bea73b2bc144af1bd5eb0eb3a8485804cd3a1d lib/Thrift/Parser/Field.pm
 SHA1 6f537a4a2e1a9e05f45c638aba2e6ab6d7487561 lib/Thrift/Parser/FieldSet.pm
@@ -90,7 +90,7 @@ SHA1 aa3b51e21d28d6264370900062fa60248a4f016f t/thrift/tutorial.thrift
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1.4.12 (Darwin)
 
-iEYEARECAAYFAlAcQQcACgkQHHIpFH/pKkLTSQCfadsRdEz6q3OOaoOg1AiyUeSg
-lk0An1b8hW9/tTGB1pWfGzv9ioDNQ8mg
-=eIh4
+iEYEARECAAYFAlBTZkQACgkQHHIpFH/pKkKTvgCbBB47WQkahDvGaQ5KdkFm7sHo
+kfQAmwU7ij7ug7hzYjlI4D1A4ITYsQMn
+=Zc4X
 -----END PGP SIGNATURE-----
