@@ -15,13 +15,13 @@ not run its Makefile.PL or Build.PL.
 Hash: SHA1
 
 SHA1 bcfecd0db38188c599d9b8d9befbe945d99168ca Build.PL
-SHA1 83520ec8bffcf0c9e963c8fb7de4e740ff3e6290 Changes
+SHA1 56b2bf4ab8e3222ca145c3d2fd89483145689ef2 Changes
 SHA1 b8fd1aeb099fc6743639f9fa7536ae96c9721169 MANIFEST
-SHA1 ad18fecec746bc31b00e0d5c433028409374b477 META.json
-SHA1 2ef05b52d422a17e433aa7bf1dbb3049ffd59ccb META.yml
+SHA1 bb47d5ef814097aaba0ebdf7b6a6db37ae118d37 META.json
+SHA1 f26d217302d4faa971b606facb008fab9a21deef META.yml
 SHA1 84ed757df8b7e0e2bfd98a77ae072d6df4f4f007 Makefile.PL
 SHA1 ab6c8444dce9aed635fa8054000e20ef7d4a613e README
-SHA1 61a80f3d02e027a42f2c0b577c6012c2f686584c lib/Thrift/IDL.pm
+SHA1 11f660b9463eb905d990ecf3f6afbc88de5832d9 lib/Thrift/IDL.pm
 SHA1 7c57add90af7f8ae61519de198d61899d345ed57 lib/Thrift/IDL/Base.pm
 SHA1 ac53a2493edaf1d52f8bf9e2a5646322c081d3ac lib/Thrift/IDL/Comment.pm
 SHA1 b9a812c0fc2d06c3157be6355a7203e9614efc3e lib/Thrift/IDL/Constant.pm
@@ -47,7 +47,7 @@ SHA1 3f7e4b09dd4b59364c6d87c045b7630732010a9e lib/Thrift/IDL/Type/Map.pm
 SHA1 b9ecd950bda472c882b5ed19179b0d82fc0fda1e lib/Thrift/IDL/Type/Set.pm
 SHA1 41e9dbc5323dd473f4a251ab6bb281f5c7471323 lib/Thrift/IDL/TypeDef.pm
 SHA1 48d8979c08e81a292c5e1e06083a1d003efa5a68 lib/Thrift/JSONProtocol.pm
-SHA1 c7b165ba1bdf70840aba507c481e32b7851300eb lib/Thrift/Parser.pm
+SHA1 b290984f8ef45d99016e72e864c11bb73a66d767 lib/Thrift/Parser.pm
 SHA1 b7ce8c21a31d1febaa46ca1d594139da8184aac5 lib/Thrift/Parser/Exceptions.pm
 SHA1 c4bea73b2bc144af1bd5eb0eb3a8485804cd3a1d lib/Thrift/Parser/Field.pm
 SHA1 6f537a4a2e1a9e05f45c638aba2e6ab6d7487561 lib/Thrift/Parser/FieldSet.pm
@@ -91,7 +91,7 @@ SHA1 aa3b51e21d28d6264370900062fa60248a4f016f t/thrift/tutorial.thrift
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1.4.12 (Darwin)
 
-iEYEARECAAYFAlBYsvMACgkQHHIpFH/pKkLtGwCfQTDR+WG33C8o3SjCWA5/D3wz
-oTcAni8NgBtsLcwEGJXbnU/gCz/xN2U0
-=CD2f
+iEYEARECAAYFAlBcoHgACgkQHHIpFH/pKkJGGACfeBQwWqToBcwqd6ht0z1YIveU
+x3oAnj/SpZZoTWNa6cK0oCC08gWDksN+
+=3pTd
 -----END PGP SIGNATURE-----
